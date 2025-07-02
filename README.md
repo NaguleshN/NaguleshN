@@ -87,8 +87,6 @@ Aspiring **Full Stack Web Developer and Cloud Solutions Engineer** passionate ab
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaguleshN&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NaguleshN&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-
 </div>
 
 </div>
